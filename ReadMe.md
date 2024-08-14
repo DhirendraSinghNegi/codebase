@@ -165,11 +165,13 @@ We welcome contributions to this codebase! Please follow these guidelines:
   - documentation: Request updates or additions to documentation.
   - question: Ask a question about the codebase.
 ## Resources
-## Here are some useful links to learn more about coding conventions:
 
-- JavaScript: Airbnb JavaScript Style Guide
-- TypeScript: TypeScript Best Practices
-- C#: Microsoft C# Coding Conventions
-- Microsoft Power Fx: Power Fx Language Reference
+Here are some useful links to learn more about coding conventions:
+
+- **JavaScript**: [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- **TypeScript**: [TypeScript Best Practices](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html)
+- **C#**: [Microsoft C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+- **Microsoft Power Fx**: [Power Fx Language Reference](https://docs.microsoft.com/en-us/power-platform/power-fx/overview)
+
 ### License
 This project is licensed under the free License - see the LICENSE.md file for details.
