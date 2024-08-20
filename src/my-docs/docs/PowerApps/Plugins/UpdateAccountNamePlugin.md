@@ -63,8 +63,8 @@ namespace CodeBase.Plugins
 }
 ```
 ## Explanation
-- Namespace: The CodeBase.Plugins namespace is used to group related classes together.
-- Class: The UpdateAccountNamePlugin class implements the IPlugin interface. This interface is required for all Dynamics 365 plugins and defines the contract that the plugin must fulfill.
+- **Namespace**: The CodeBase.Plugins namespace is used to group related classes together.
+- **Class**: The UpdateAccountNamePlugin class implements the IPlugin interface. This interface is required for all Dynamics 365 plugins and defines the contract that the plugin must fulfill.
 ```csharp
     Method: Execute(IServiceProvider serviceProvider)
 ```
